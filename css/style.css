@@ -1,0 +1,95 @@
+body {
+	background-image: url("../Images/new.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+}
+
+.mid {
+	margin-top: 250px;
+}
+
+#heading{
+	font-size:400%;
+	color:black;
+}
+.select{
+	color:rgb(14, 13, 13);
+	font-size: 30px;
+	
+}
+
+#select2{
+	color:red;
+	font-size:20px;
+	
+}
+table{
+	  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  border-color:blue;
+	
+}
+.we{
+  border: 3px solid #dddddd;
+  text-align: left;
+  padding: 2px;
+   border-color:rgb(245, 75, 8);
+}
+.login{
+	
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button {
+  background-color:rgb(231, 50, 26);
+  border: none;
+  color: black;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+  float: right;
+  margin-right: 90px;
+}
+
+.button:hover {
+  background-color:lightblue;
+}
+
+#populer{
+	font-size:50px;
+	color: lightblue;
+}
+
+.white{
+	color:rgb(85, 3, 3);
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 90%;
+  margin-left: 60px;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}

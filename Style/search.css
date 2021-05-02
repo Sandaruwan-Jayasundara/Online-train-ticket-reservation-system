@@ -1,0 +1,141 @@
+.application{
+margin-top: 100px;
+
+}
+.apllication-form{
+
+	 position: relative;
+	 top: 50%;
+	 left: 50%;
+	 border-radius: 5px;
+	 width: 450px;
+	 height: 500px;
+	 padding-left: 45px;
+	 padding-top: 40px;
+	background-color: rgba(0,0,0,.8);
+	 box-sizing: border-box;
+}
+
+.type label{
+
+color: white;
+margin-right: 40px;
+
+
+
+
+}
+.type input{
+
+border-radius: 5px;
+padding: 6px;
+padding-right: 100px;
+margin-bottom: 20px;
+
+
+}
+.from label{
+
+color: white;
+margin-right: 20px;
+margin-left: 20px;
+
+
+
+}
+.from input{
+
+border-radius: 5px;
+padding: 6px;
+padding-right: 100px;
+margin-left: 20px;
+margin-bottom: 20px;
+
+
+}
+.to label{
+color: white;
+margin-left: 45px;
+margin-right: 10px;
+
+
+
+
+}
+.to input{
+
+border-radius: 5px;
+padding: 6px;
+margin-left: 30px;
+padding-right: 100px;
+margin-bottom: 20px;
+
+
+}
+.date-time label{
+
+margin-left: 35px;
+margin-right: 40px;
+
+color: white;
+
+
+}
+.date-time input{
+
+border-radius: 5px;
+padding: 6px;
+padding-right: 78px;
+margin-bottom: 30px;
+
+
+}
+.time label{
+
+
+margin-left: 35px;
+color: white;
+margin-right: 38px;
+
+
+}
+.time input{
+
+border-radius: 5px;
+padding: 6px;
+margin-bottom: 40px;
+
+
+}
+
+
+.selection label{
+
+
+	color: white;
+}
+
+
+.selection{
+
+
+margin-left: 50px;
+
+}
+
+
+
+.selection input{
+margin-left: 60px;
+margin-bottom: 100px;
+}
+
+
+
+
+.button input{
+	border-radius: 5px;
+background-color: blue;
+	width: 350px;
+	height: 30px;
+}

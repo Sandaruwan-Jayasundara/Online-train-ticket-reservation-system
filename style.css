@@ -1,0 +1,180 @@
+
+body{
+	margin: 0;
+	font-family:"montserrat",sans-serif;
+	background-repeat: no-repeat;   
+	background-size:cover;
+	padding:0;
+	background-attachment:fixed;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.header{
+	height:135px;
+	overflow: hidden;
+	background-color:#000000;
+	background-size:fit;
+	font-variant: normal;
+	padding:5px 5px;
+	width:100%;
+	top:0px;
+	position:fixed;
+	opacity:0.8;
+}
+.header a{
+  text-align: center;
+  font-size: 20px;
+  text-decoration: none;
+}
+.active{
+  overflow: hidden;
+  background-color: #333;
+  font-size:20px;
+  color:white;
+  opacity: 0.6;
+  margin-top:125px;
+
+}
+.active a {
+  float: left;
+  display: block;
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+  font-family:"montserrat",sans-serif;
+}
+.active a:hover {
+  background-color: #fb2525;
+  color: white;
+}
+.logbox{
+	
+	width:400px;
+	height:480px;
+	top: 64%;
+	left: 75%;
+	background:#58a0a7;
+	color:black;
+	position:absolute;
+	transform:translate(-50%,-50%);
+	box-sizing:border-box;
+	font-size:24px;
+	padding:70px 30px;
+	border-radius:6px;
+	font-family:"montserrat",sans-serif;
+	z-index:2;
+}
+.h11{
+	
+	font-size:30px;
+	margin:0;
+	padding:0;
+	text-align:center;
+	color:#2a1b0e
+	
+}
+.logbox p{
+	
+	margin: 0;
+	padding: 0;
+	font-weight:bold;
+	color:#000000;
+	opacity:1;
+	font-family:"montserrat",sans-serif;
+	
+}
+.logbox input{
+	
+	width:90%;
+	margin-bottom:20px;
+	border-radius:5px;
+	
+}
+.logbox input[type="text"],input[type ="password"]{
+	border:none;
+	border-bottom:1px solid f###;
+	outline:none;
+	height:30px;
+	font-size:16px;
+	color:#000000;
+	opacity:0.9;
+}
+.sub{
+	
+	height:30px;
+	margin-top:25px;
+	width:40px;
+	
+}
+h1{
+	
+	color:black;
+	font-family:"montserrat",sans-serif;
+}
+.logbox input[type="submit"]{
+	
+	cursor:pointer;
+	background:#ffffff;
+	color:black;
+	border-radius:20px;
+	border:none;
+	outline:none;
+	
+	
+}
+.logbox input[type="submit"]:hover{
+	cursor:pointer;
+	background:#8e8585;
+	
+}
+.logbox a{
+	
+	text-decoration:none;
+	font-size:18px
+	line-height:20px;
+	color:#ffffff;
+	font-family:"montserrat",sans-serif;
+	
+	
+}
+.logbox a:hover{
+	
+	cursor:pointer;
+	color: #FFC300;
+
+}
+.des{
+	width:400px;
+	height:200px;
+	top: 10%;
+	right: 170%;
+	position:absolute;
+	background-repeat:no-repeat;
+	transform:translate(-40%,-50%);
+}
+.des img{
+	
+	opacity:0.3;
+	position:absolute;
+	top:80%;
+	right:35%;
+	position:fixed;
+}
+.des h3{
+	
+	opacity:0.6;
+	
+}
+
+
